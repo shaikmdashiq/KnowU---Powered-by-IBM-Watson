@@ -16,6 +16,5 @@ Using this results, the user can know where they stand in their inner personalit
 
 In future, I will show them suggestions based on their personality like what they have to do to improve themselves. What they are in need for and such things. This has endless possibilities sitting right inside the hands of the user.
 
-
-
+Please note that the IBM watson API's username and password are now given a simple Placeholder text, you can replace them with your API credentials to access this.
 
