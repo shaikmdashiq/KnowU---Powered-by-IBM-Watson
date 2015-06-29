@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Shaik/Documents/KnowU/app/build/intermediates/exploded-aar/com.jpardogo.materialtabstrip/library/1.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="611c7708cd3df0d7ae99105d4df5af8eb25c4b32">
+        <dex dex="/Users/Shaik/Documents/KnowU/app/build/intermediates/pre-dexed/debug/classes-fc1565433933fcb35458bdaa9858e06d62155c94.jar" />
+    </item>
+    <item
+        jar="/Users/Shaik/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/Shaik/Documents/KnowU/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-eec284512c6d2f9638b9d0c54dbe61242a00f4de.jar" />
+    </item>
+    <item
+        jar="/Users/Shaik/.gradle/caches/modules-2/files-2.1/org.java-websocket/Java-WebSocket/1.3.0/db2658f013fb163de4a99274c2eb9e17efe535d2/Java-WebSocket-1.3.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="db2658f013fb163de4a99274c2eb9e17efe535d2">
+        <dex dex="/Users/Shaik/Documents/KnowU/app/build/intermediates/pre-dexed/debug/Java-WebSocket-1.3.0-18e7de44142a029f6ae687fe6c853bf77a4fd115.jar" />
+    </item>
+    <item
+        jar="/Users/Shaik/.gradle/caches/modules-2/files-2.1/org.apache.james/apache-mime4j/0.6/945007627e8d12275d755081a9e609c018e1210d/apache-mime4j-0.6.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="945007627e8d12275d755081a9e609c018e1210d">
+        <dex dex="/Users/Shaik/Documents/KnowU/app/build/intermediates/pre-dexed/debug/apache-mime4j-0.6-f48b1caaeb4b0a14a5c875556bcf181556b518a1.jar" />
+    </item>
+    <item
+        jar="/Users/Shaik/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpmime/4.0.3/e3fa40a58c124132d63a7184075520f7eb3c09cd/httpmime-4.0.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e3fa40a58c124132d63a7184075520f7eb3c09cd">
+        <dex dex="/Users/Shaik/Documents/KnowU/app/build/intermediates/pre-dexed/debug/httpmime-4.0.3-b78939b81acbbbee1149609b89e1412c0b551583.jar" />
+    </item>
+    <item
+        jar="/Users/Shaik/Documents/KnowU/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/Shaik/Documents/KnowU/app/build/intermediates/pre-dexed/debug/classes-67d34324f6e611c830c8e0611aa0d351bc69e952.jar" />
+    </item>
+    <item
+        jar="/Users/Shaik/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore/4.0.1/e813b8722c387b22e1adccf7914729db09bcb4a9/httpcore-4.0.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e813b8722c387b22e1adccf7914729db09bcb4a9">
+        <dex dex="/Users/Shaik/Documents/KnowU/app/build/intermediates/pre-dexed/debug/httpcore-4.0.1-8d0150548c55c7d31c014f5fb855b357588329b2.jar" />
+    </item>
+    <item
+        jar="/Users/Shaik/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/Users/Shaik/Documents/KnowU/app/build/intermediates/pre-dexed/debug/gson-2.3.1-3ac6c9c17548bf575cd46970d83745e011c7d693.jar" />
+    </item>
+    <item
+        jar="/Users/Shaik/.gradle/caches/modules-2/files-2.1/com.ibm.watson.developer_cloud/java-wrapper/0.1.7/a4bb16f3e6c59598c9e5fd13e7042d1dc4a0913c/java-wrapper-0.1.7.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a4bb16f3e6c59598c9e5fd13e7042d1dc4a0913c">
+        <dex dex="/Users/Shaik/Documents/KnowU/app/build/intermediates/pre-dexed/debug/java-wrapper-0.1.7-933088a3dfcafea3344a00af3f7fef2d44dccd07.jar" />
+    </item>
+    <item
+        jar="/Users/Shaik/Documents/KnowU/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="/Users/Shaik/Documents/KnowU/app/build/intermediates/pre-dexed/debug/classes-3f7e0bfc0f58251138b2429036a3a127748c594d.jar" />
+    </item>
+    <item
+        jar="/Users/Shaik/.gradle/caches/modules-2/files-2.1/com.github.PhilJay/MPAndroidChart/v2.1.0/ec46f9251e1e0ee60e1b6beae8b16f2e0fdee474/MPAndroidChart-v2.1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ec46f9251e1e0ee60e1b6beae8b16f2e0fdee474">
+        <dex dex="/Users/Shaik/Documents/KnowU/app/build/intermediates/pre-dexed/debug/MPAndroidChart-v2.1.0-9cfdca9af634b57cbbf1bbd29e4617aa990b7c41.jar" />
+    </item>
+    <item
+        jar="/Users/Shaik/Library/Android/sdk/build-tools/22.0.1/renderscript/lib/renderscript-v8.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2b276904cd854be6d460f2bcec9cf2cddaf580c1">
+        <dex dex="/Users/Shaik/Documents/KnowU/app/build/intermediates/pre-dexed/debug/renderscript-v8-60cfe51f0c94162f5816002c2538d808327d378e.jar" />
+    </item>
+    <item
+        jar="/Users/Shaik/Documents/KnowU/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/Shaik/Documents/KnowU/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-a88e2cd5c70699d303bc984232ec5e7bb22d0943.jar" />
+    </item>
+    <item
+        jar="/Users/Shaik/Documents/KnowU/app/build/intermediates/exploded-aar/fr.tvbarthel.blurdialogfragment/lib/2.1.4/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3a603c36f062f9f84f9f0fe048fa589566298b41">
+        <dex dex="/Users/Shaik/Documents/KnowU/app/build/intermediates/pre-dexed/debug/classes-7167fae605dc5d4763a33fcf9bf7e5e6552fb011.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,124 @@
+<resources>
+    <string name="app_name">KnowU</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_list_charts">ListCharts</string>
+    <string name="title_activity_show_charts">ShowCharts</string>
+
+    <string name="title_section1">Start Page</string>
+    <string name="hist_title_section1">Records</string>
+    <string name="title_section2">Big 5</string>
+    <string name="title_section3">Values</string>
+    <string name="title_section4">Needs</string>
+
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+    <string name="loggyServName">KnowU</string>
+    <string name="loggyServDescription">Please turn on KnowU to analyse your activities and get a detailed personality insight about you. Once it is turned on, KnowU will start understanding your personality, based on your phone usage.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_sub_chart">SubChart</string>
+    <string name="string_warn">This will not work.\nPlease activate KnowU service\nTap here to go to settings</string>
+    <string name="title_activity_historical_">Historical_Activity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    
+    <string name="title_activity_historical_activity">Historical Records</string>
+    <string name="results_title">Your results</string>
+    <string name="title_activity_analysis">Analysis</string>
+
+
+    <string name="alturism_high">You feel fulfilled when helping others and will go out of your way to do so.</string>
+    <string name="alturism_low">You are more concerned with taking care of yourself than taking time for others.</string>
+    <string name="coop_high">You are easy to please and try to avoid confrontation.</string>
+    <string name="coop_low">You do not shy away from contradicting others.</string>
+    <string name="modesty_high">You are uncomfortable being the center of attention.</string>
+    <string name="modesty_low">You hold yourself in high regard and are satisfied with who you are.</string>
+    <string name="morality_high">You think it is wrong to take advantage of others to get ahead.</string>
+    <string name="morality_low">You are comfortable using every trick in the book to get what you want.</string>
+    <string name="sympathy_high">You feel what others feel and are compassionate toward them.</string>
+    <string name="sympathy_low">You think people should generally rely more on themselves than on others.</string>
+    <string name="trust_high">You believe the best in others and trust people easily.</string>
+    <string name="trust_low">You are wary of other people\'s intentions and do not trust easily.</string>
+
+    <string name="ach_high">You set high goals for yourself and work hard to achieve them.</string>
+    <string name="ach_low">You are content with your level of accomplishment and do not feel the need to set ambitious goals.</string>
+    <string name="cautiousness_high">You carefully think through decisions before making them.</string>
+    <string name="cautiousness_low">You would rather take action immediately than spend time deliberating making a decision.</string>
+    <string name="dutifulness_high">You take rules and obligations seriously, even when they are inconvenient.</string>
+    <string name="dutifulness_low">You do what you want, disregarding rules and obligations.</string>
+    <string name="orderliness_high">You feel a strong need for structure in your life.</string>
+    <string name="orderliness_low">You do not make a lot of time for organization in your daily life.</string>
+    <string name="discipline_high">You can tackle and stick with tough tasks.</string>
+    <string name="discipline_low">You have a hard time sticking with difficult tasks for a long period of time.</string>
+    <string name="efficacy_high">You feel you have the ability to succeed in the tasks you set out to do.</string>
+    <string name="efficacy_low">You frequently doubt your ability to achieve your goals.</string>
+
+    <string name="activity_high">You enjoy a fast-paced, busy schedule with many activities.</string>
+    <string name="activity_low">You appreciate a relaxed pace in life.</string>
+    <string name="assertiveness_high">You tend to speak up and take charge of situations, and you are comfortable leading groups.</string>
+    <string name="assertiveness_low">You prefer to listen than to talk, especially in group situations.</string>
+    <string name="cheerfulness_high">You are a joyful person and share that joy with the world.</string>
+    <string name="cheerfulness_low">You are generally serious and do not joke much.</string>
+    <string name="excitement_high">You are excited by taking risks and feel bored without lots of action going on.</string>
+    <string name="excitement_low">You prefer activities that are quiet, calm, and safe.</string>
+    <string name="friendliness_high">You make friends easily and feel comfortable around other people.</string>
+    <string name="friendliness_low">You are a private person and do not let many people in.</string>
+    <string name="gregar_high">You enjoy being in the company of others.</string>
+    <string name="gregar_low">You have a strong desire to have time to yourself.</string>
+
+    <string name="anger_high">You have a fiery temper, especially when things do not go your way.</string>
+    <string name="anger_low">It takes a lot to get you angry.</string>
+    <string name="anx_high">You tend to worry about things that might happen.</string>
+    <string name="anx_low">You tend to feel calm and self-assured.</string>
+    <string name="depression_high">You think quite often about the things you are unhappy about.</string>
+    <string name="depression_low">You are generally comfortable with yourself as you are.</string>
+    <string name="immoderation_high">You feel your desires strongly and are easily tempted by them.</string>
+    <string name="immoderation_low">You have control over your desires, which are not particularly intense.</string>
+    <string name="consciousness_high">You are sensitive about what others might be thinking of you.</string>
+    <string name="consciousness_low">You are hard to embarrass and are self-confident most of the time.</string>
+    <string name="vuln_high">You are easily overwhelmed in stressful situations.</string>
+    <string name="vuln_low">You handle unexpected events calmly and effectively.</string>
+
+    <string name="adventure_high">You are eager to experience new things.</string>
+    <string name="adventure_low">You enjoy familiar routines and prefer not to deviate from them.</string>
+    <string name="art_high">You enjoy beauty and seek out creative experiences.</string>
+    <string name="art_low">You are less concerned with artistic or creative activities than most people.</string>
+    <string name="emotion_high">You are aware of your feelings and how to express them.</string>
+    <string name="emotion_low">You do not frequently think about or openly express your emotions.</string>
+    <string name="imagination_high">You have a wild imagination.</string>
+    <string name="imagination_low">You prefer facts over fantasy.</string>
+    <string name="intellect_high">You are open to and intrigued by new ideas and love to explore them.</string>
+    <string name="intellect_low">You prefer dealing with the world as it is, rarely considering abstract ideas.</string>
+    <string name="liberalism_high">You prefer to challenge authority and traditional values to effect change.</string>
+    <string name="liberalism_low">You prefer following with tradition to maintain a sense of stability.</string>
+
+    <string name="transcendance">Show concern for the welfare and interests of others.</string>
+    <string name="conservation">Emphasize self-restriction, order, and resistance to change.</string>
+    <string name="hedonism">Seek pleasure and sensuous gratification for themselves.</string>
+    <string name="self_enhancement">Seek personal success for themselves.</string>
+    <string name="change">Emphasize independent action, thought, and feeling, as well as a readiness for new experiences.</string>
+
+    <string name="excitement">Want to get out there and live life, have upbeat emotions, and want to have fun.</string>
+    <string name="harmony">Appreciate other people, their viewpoints, and their feelings.</string>
+    <string name="curiosity">Have a desire to discover, find out, and grow.</string>
+    <string name="ideal">Desire perfection and a sense of community.</string>
+    <string name="closeness">Relish being connected to family and setting up a home.</string>
+    <string name="self_expr">Enjoy discovering and asserting their own identities.</string>
+    <string name="liberty">Have a desire for fashion and new things, as well as the need for escape.</string>
+    <string name="love">Enjoy social contact, whether one-to-one or one-to-many. Any brand that is involved in bringing people together taps this need.</string>
+    <string name="practicality">Have a desire to get the job done, a desire for skill and efficiency, which can include physical expression and experience.</string>
+    <string name="stability">Seek equivalence in the physical world. They favor the sensible, the tried and tested.</string>
+    <string name="challenge">Have an urge to achieve, to succeed, and to take on challenges.</string>
+    <string name="structure">Exhibit groundedness and a desire to hold things together. They need things to be well organized and under control.</string>
+    <string name="submitText">Submit</string>
+    <string name="subchart_header_start">Tap the chart to know more about each entity</string>
+    <string name="startpage_top_description">KnowU has been processing your activities with the smartphone. You can know the progress of the data collected from the progress circle below. Once enough data is collected, you will be notified and you can submit it for processing</string>
+    <string name="serv_warning">Realtime analysis will not work.\nPlease activate KnowU from settings.\nTap here to activate it.</string>
+
+
+</resources>

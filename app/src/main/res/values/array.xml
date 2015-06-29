@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="Agreeableness">
+        <item>@string/alturism_high</item>
+        <item>@string/coop_high</item>
+        <item>@string/modesty_high</item>
+        <item>@string/morality_high</item>
+        <item>@string/sympathy_high</item>
+        <item>@string/trust_high</item>
+        <item>@string/alturism_low</item>
+        <item>@string/coop_low</item>
+        <item>@string/modesty_low</item>
+        <item>@string/morality_low</item>
+        <item>@string/sympathy_low</item>
+        <item>@string/trust_low</item>
+    </string-array>
+
+    <string-array name="Conscientiousness">
+        <item>@string/ach_high</item>
+        <item>@string/cautiousness_high</item>
+        <item>@string/dutifulness_high</item>
+        <item>@string/orderliness_high</item>
+        <item>@string/discipline_high</item>
+        <item>@string/efficacy_high</item>
+        <item>@string/ach_low</item>
+        <item>@string/cautiousness_low</item>
+        <item>@string/dutifulness_low</item>
+        <item>@string/orderliness_low</item>
+        <item>@string/discipline_low</item>
+        <item>@string/efficacy_low</item>
+    </string-array>
+
+    <string-array name="Extraversion">
+        <item>@string/activity_high</item>
+        <item>@string/assertiveness_high</item>
+        <item>@string/cheerfulness_high</item>
+        <item>@string/excitement_high</item>
+        <item>@string/friendliness_high</item>
+        <item>@string/gregar_high</item>
+        <item>@string/activity_low</item>
+        <item>@string/assertiveness_low</item>
+        <item>@string/cheerfulness_low</item>
+        <item>@string/excitement_low</item>
+        <item>@string/friendliness_low</item>
+        <item>@string/gregar_low</item>
+    </string-array>
+
+    <string-array name="Emotional_Range">
+        <item>@string/anger_high</item>
+        <item>@string/anx_high</item>
+        <item>@string/depression_high</item>
+        <item>@string/immoderation_high</item>
+        <item>@string/consciousness_high</item>
+        <item>@string/vuln_high</item>
+        <item>@string/anger_low</item>
+        <item>@string/anx_low</item>
+        <item>@string/depression_low</item>
+        <item>@string/immoderation_low</item>
+        <item>@string/consciousness_low</item>
+        <item>@string/vuln_low</item>
+    </string-array>
+
+    <string-array name="Openness">
+        <item>@string/adventure_high</item>
+        <item>@string/art_high</item>
+        <item>@string/emotion_high</item>
+        <item>@string/imagination_high</item>
+        <item>@string/intellect_high</item>
+        <item>@string/adventure_low</item>
+        <item>@string/art_low</item>
+        <item>@string/emotion_low</item>
+        <item>@string/imagination_low</item>
+        <item>@string/intellect_low</item>
+        <item>@string/liberalism_high</item>
+        <item>@string/liberalism_low</item>
+    </string-array>
+
+    <string-array name="Needs_group">
+        <item>@string/challenge</item>
+        <item>@string/closeness</item>
+        <item>@string/curiosity</item>
+        <item>@string/excitement</item>
+        <item>@string/harmony</item>
+        <item>@string/ideal</item>
+        <item>@string/liberty</item>
+        <item>@string/love</item>
+        <item>@string/practicality</item>
+        <item>@string/self_expr</item>
+        <item>@string/stability</item>
+        <item>@string/structure</item>
+    </string-array>
+
+    <string-array name="Values_group">
+        <item>@string/conservation</item>
+        <item>@string/change</item>
+        <item>@string/hedonism</item>
+        <item>@string/self_enhancement</item>
+        <item>@string/transcendance</item>
+    </string-array>
+
+
+</resources>

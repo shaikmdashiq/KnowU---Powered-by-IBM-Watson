@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#ffffffff">
+
+    <EditText
+        android:id="@+id/editText01"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/button01"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/textView2"
+        android:minHeight="256dp"
+        android:hint="e.g. paste your resume&apos;s text content"
+        android:textColor="#ff000000" />
+
+    <Button
+        android:id="@+id/button01"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/bg_green"
+        android:minWidth="100dp"
+        android:text="Submit"
+        android:textColor="@drawable/text_green"
+        android:layout_marginTop="10dp" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="false"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:gravity="center"
+        android:minHeight="60dp"
+        android:text="Please enter some text that you want to analyze.\nIt should have a minimum of 100 words.\nDo note that this will not be saved to history."
+        android:textSize="14sp"
+        android:textColor="#ff000000" />
+</RelativeLayout>

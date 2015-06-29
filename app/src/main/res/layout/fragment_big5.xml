@@ -1,0 +1,25 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/big5Layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.artqueen.knowu.EssentialFragments.Big5_Fragment">
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:gravity="center_vertical|center_horizontal"
+        android:minHeight="60dp"
+        android:text="Please select a subcategory." />
+
+    <ListView
+        android:id="@+id/listView001"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true" />
+    <!--android:layout_below="@+id/hist_textView4"-->
+
+</RelativeLayout>
