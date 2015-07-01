@@ -2,7 +2,8 @@
 Brings the power of IBM Watson's Personality Insights to your android device.
 
 This project in `GitHub` contains just one module of my app `KnowU`, which automatically monitors the users activities in the smartphone and gets data from it to be processed using `IBM Watson`. It periodically notifies the user when enough data is collected and the user's personality can be reviewed.
-You can take a look at the whole project from this video link.
+You can take a look at the whole project from this video link given.
+I developed this project for the [IBM Bluemix Hackathon.](https://www.hackerearth.com/sprints/ibm-bluemix-hackathon/description/)
 
 This project allows users to enter some text and then pass it to Watson which gives you a detailed analysis on your personality. I have used `MPCharts` here to show the results in a better way to the user.
 
